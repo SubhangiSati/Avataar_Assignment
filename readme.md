@@ -65,10 +65,10 @@ After segmenting the object, its pose is modified by rotating it according to th
 The edited scene preserves the background and ensures that the object rotation looks natural.
 Challenges & Solutions
 
-# Challenge: Maintaining object boundaries during segmentation.
-# Solution: Used fine-tuned pre-trained models and tested the model across different images to refine boundary detection.
-# Challenge: Achieving smooth and realistic object rotation.
-# Solution: Employed advanced 3D rotation techniques to adjust object poses while ensuring the background remains intact.
+#### Challenge: Maintaining object boundaries during segmentation.
+#### Solution: Used fine-tuned pre-trained models and tested the model across different images to refine boundary detection.
+#### Challenge: Achieving smooth and realistic object rotation.
+#### Solution: Employed advanced 3D rotation techniques to adjust object poses while ensuring the background remains intact.
 
 ## Results
 
